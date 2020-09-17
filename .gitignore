@@ -26,9 +26,3 @@ hs_err_pid*
 .idea
 target
 upload-dir
-
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
-
